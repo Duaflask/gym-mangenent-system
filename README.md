@@ -19,7 +19,7 @@ A Gym Management System is a web-based application designed to simplify and auto
 **Core features:**
 
 * User roles: Admin, Staff, Trainer, Member
-* Member management: add/edit/delete, profile photos
+* Home page:welcome message and introduction
 * Membership plans: create/manage plans, set durations, prices
 * Attendance check-in (QR code or manual)
 * Class/training schedule with bookings
